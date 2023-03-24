@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Soni</h1>
 <h3 align="center">A passionate Data Science Aspirant from India</h3>
 
+<img align="right" alt="coding" width="400" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://qph.cf2.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsoni7575&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsoni7575" /> </p>
 
 - 🔭 I’m currently working on **Movie Recommendation System**
