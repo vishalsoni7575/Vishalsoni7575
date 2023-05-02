@@ -5,16 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsoni7575&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsoni7575" /> </p>
 
-- 🔭 I’m currently working on **Movie Recommendation System**
+- 🔭 I’m currently working on **Insurance Price Analysis Project**
 
-- 🌱 I’m currently learning **Data Science Project Deployment**
+- 🌱 I’m currently learning **Data Analysis using Advanced Excel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalsoni7575?tab=repositories](https://github.com/vishalsoni7575?tab=repositories)
 
 - Top Skills 
      * **PYTHON**
      * **MYSQL** 
+     * **Advanced Excel**
+     * **Power BI**
      * **STATISTICS** 
+     * **Probability**
      * **MACHINE LEARNING**
 
 - 📫 How to reach me **vishalsonids@gmail.com**
